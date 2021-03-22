@@ -122,6 +122,6 @@ STATIC_URL = '/static/'
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST_USER = "nicole.barros@deway.com.br"
-EMAIL_HOST_PASSWORD = 'ni81662527'
+EMAIL_HOST_PASSWORD = ''
 EMAIL_HOST = "smtp.gmail.com"
 EMAIL_PORT = "587"
